@@ -1,4 +1,4 @@
-## y u here?
+## Hi, there!
 
 <ul>
   <li>Final year student in Universitas Gadjah Mada</li>
