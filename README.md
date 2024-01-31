@@ -7,4 +7,4 @@
   <li>Five star Tokopedia buyer</li>
 </ul>
 
-![Airlangga's github stats](https://github-readme-stats.vercel.app/api?username=typomulu&show_icons=true&theme=radical)
+![Airlangga's github stats](https://github-readme-stats.vercel.app/api?username=airlanggarasyad&show_icons=true&theme=radical)
